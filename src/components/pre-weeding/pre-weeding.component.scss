@@ -5,9 +5,9 @@
         text-align: center;
 
         .text-1 {
-            font-size: 40px;
-            font-family: 'Dancing Script', cursive;
-            color: rgb(243, 162, 175);
+            font-size: var(--text-3);
+            font-family: var(--font-family-dancing);
+            color: var(--color-pick);
         }
     
         .text-2 {

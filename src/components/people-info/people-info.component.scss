@@ -2,11 +2,11 @@
     margin: 0 0 4rem 0;
 
     .text-name {
-        font-size: 20px;
+        font-size: var(--text-1);
         font-weight: 500;
         .dancing {
-            font-size: 4rem;
-            font-family: 'Dancing Script', cursive;
+            font-size: var(--text-4);
+            font-family: var(--font-family-dancing);
         }
     }
 }
