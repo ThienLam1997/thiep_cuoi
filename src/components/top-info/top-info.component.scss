@@ -1,0 +1,25 @@
+section {
+    margin: 0 0 2rem 0;
+}
+
+.top-info-container {
+    .flower1 {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+    }
+
+    .flower2 {
+        position: absolute;
+        top: 50px;
+        right: 20px;
+    }
+
+    .flower3 {
+        position: absolute;
+        width: 130px;
+        bottom: 100px;
+        left: 500px;
+        z-index: 1000;
+    }
+}
