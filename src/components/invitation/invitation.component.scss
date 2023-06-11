@@ -9,7 +9,7 @@
     .text-2 {
         font-size: var(--text-3);
         font-weight: 500;
-        color: red;
+        color: var(--color-pick);
         font-family: var(--font-family-dancing);
     }
 
@@ -50,6 +50,12 @@
             }
         }
 
+    }
+
+    .add-text {
+        font-size: var(--text-2);
+        font-weight: 600;
+        color: var(--color-pick);
     }
 
     .boder-bottom {
